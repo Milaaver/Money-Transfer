@@ -7,13 +7,13 @@
 На тестирование затрачено: 10 минут
 
 В результате тестирования выявлены следующие дефекты:
-* [Неверный тип переменной int](https://github.com/Milaaver/Money-Transfer/issues/1)
+* [Некорректный расчет переменной int total](https://github.com/Milaaver/Money-Transfer/issues/1)
 
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
-* данные задачи-легенды
+* [данные задачи-легенды](https://github.com/netology-code/javaqa-homeworks/tree/master/programming#%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-1---money-transfer)
 
 
 В качестве тестовых данных использовались данные из задачи легенды:
